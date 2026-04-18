@@ -48,10 +48,10 @@ To build and compare different machine learning models for predicting loan appro
 ---
 
 ## 📁 Project Structure
-loan_approval_ml.py — Main ML pipeline script  
-loan_approval_data.csv — Dataset  
-requirements.txt — Dependencies  
-README.md — Documentation  
+loan_approval_ml.py — # Main ML pipeline script  
+loan_approval_data.csv — # Dataset  
+requirements.txt — # Dependencies  
+README.md — # Documentation  
 
 ---
 
